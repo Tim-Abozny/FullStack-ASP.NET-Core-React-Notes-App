@@ -1,11 +1,11 @@
-# FullStack-ASP.NET-Core-React-Notes-App
+# **FullStack-ASP.NET-Core-React-Notes-App**
 This project created by using:
-- backend
+## backend
 -    ASP.NET Core WebAPI (.NET 8 LTS)
 -    Docker
-- database
+## database
 -    PostgreSQL
-- frontend
+## frontend
 -    Vite & React(js).
 -    Tailwind CSS
 -    Chakra UI
